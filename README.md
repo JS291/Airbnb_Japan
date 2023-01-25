@@ -1,4 +1,15 @@
 # Airbnb Japan
+An exploratory data analysis into the listings of Airbnb in Tokyo, Japan.
+
+## Data
+The dataset was obtained from Airbnb. - [Link](http://insideairbnb.com/get-the-data/)
+
+Data dictionary of the columns provided by Airbnb. - [Link](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=1322284596)
+
+## Tools and Libraries
+Exploration, data cleaning, and visualizations was done using Python (JupyterLab)
+
+Libraries used: Pandas, Matplotlib, Seaborn, Numpy
 
 
 # Table of Contents
